@@ -4,6 +4,7 @@ project template to quick start with gtest and modules
 
 ## Project Structure
 
+```
 gtest-cpp-template
 +--main
 |  +--moduleA
@@ -15,8 +16,9 @@ gtest-cpp-template
 |  +--moduleA
 |     +--ATest.cpp
 |  +--MainLevelTest.cpp
+```
 
-## examples
+## Examples
 
 ### MainLevelTest
 
