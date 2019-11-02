@@ -1,6 +1,6 @@
 # gtest-cpp-template
 
-project template to quick start with gtest and modules
+project template to quick start with cmake, gtest and modules
 
 ## Project Structure
 
