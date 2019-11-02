@@ -10,7 +10,6 @@ protected:
   }
 };
 
-
 TEST_F(MainLevelTest, value){
   MainLevel m("m");
 
