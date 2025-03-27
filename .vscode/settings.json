@@ -1,0 +1,12 @@
+{
+  "testing.automaticallyOpenPeekView": "failureAnywhere",
+  "testMate.cpp.test.randomGeneratorSeed": "0",
+  "testMate.cpp.test.advancedExecutables": [
+    {
+      "pattern": "${command:cmake.buildDirectory}/**/*{test,Test,TEST}*",
+      "runTask": {
+        "before": [ "CMake: build" ]
+      }
+    }
+  ]
+}

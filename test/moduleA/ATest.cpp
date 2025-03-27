@@ -8,7 +8,6 @@ protected:
   }
 
   void TearDown() override {
-
   }
 };
 
